@@ -1,0 +1,26 @@
+body {
+    background-color: deepskyblue;
+    backface-visibility: visible;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+label {
+    display:table-row;
+    margin-bottom: 100px;
+}
+
+input {
+    padding: 5px;
+    margin-bottom: 80px;
+}
+
+button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
